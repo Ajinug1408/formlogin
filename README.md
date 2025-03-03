@@ -1,6 +1,5 @@
-# 🌟 Animated Login Form - Desain Modern & Interaktif 🚀
+# 🌟 Animated Login Form - Desain Modern & Interaktif 
 
-## ✨ Deskripsi Singkat
 Form login ini dibuat dengan tampilan elegan, modern, dan interaktif, dirancang menggunakan HTML & CSS murni tanpa JavaScript tambahan. Menggunakan efek Glassmorphism, elemen transparan, serta animasi dinamis, form ini memberikan pengalaman pengguna yang lebih menarik dan responsif di berbagai perangkat.
 
 ## 🎯 Fitur Unggulan
